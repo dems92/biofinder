@@ -1,0 +1,28 @@
+{
+  "name": "Conseil compléments BiotechUSA",
+  "short_name": "Conseil BTUSA",
+  "description": "Aide au conseil en compléments alimentaires BiotechUSA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafcfd",
+  "theme_color": "#fafcfd",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
